@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-description 'Zur Small Resources'
+description 'zur-smallresources'
 version '1.0.0'
 shared_scripts {
     'shared/config.lua'
