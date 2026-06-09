@@ -1,4 +1,4 @@
-# Zur Small Resources 🌵 (Hardcore RP & Immersion Pack)
+# Zur Small Resources
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Framework](https://img.shields.io/badge/framework-QBCore-red)
